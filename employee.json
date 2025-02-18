@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "Name": "John Doe",
+    "Position": "Software Engineer",
+    "Department": "Engineering",
+    "Email": "john.doe@example.com",
+    "Phone": "+1-555-1234",
+    "HireDate": "2020-05-01"
+  },
+  {
+    "Id": 2,
+    "Name": "Jane Smith",
+    "Position": "Product Manager",
+    "Department": "Product",
+    "Email": "jane.smith@example.com",
+    "Phone": "+1-555-5678",
+    "HireDate": "2019-08-15"
+  },
+  {
+    "Id": 3,
+    "Name": "Samuel Green",
+    "Position": "UX/UI Designer",
+    "Department": "Design",
+    "Email": "samuel.green@example.com",
+    "Phone": "+1-555-9876",
+    "HireDate": "2021-11-23"
+  },
+  {
+    "Id": 4,
+    "Name": "Alice Brown",
+    "Position": "Marketing Specialist",
+    "Department": "Marketing",
+    "Email": "alice.brown@example.com",
+    "Phone": "+1-555-2468",
+    "HireDate": "2018-06-30"
+  },
+  {
+    "Id": 5,
+    "Name": "Robert White",
+    "Position": "DevOps Engineer",
+    "Department": "Engineering",
+    "Email": "robert.white@example.com",
+    "Phone": "+1-555-1357",
+    "HireDate": "2022-02-10"
+  }
+]
